@@ -16,7 +16,7 @@
      
      @media all and (min-width:320px) {
       #mainimg{
-        width:50%;
+        width:min-width: 320px;, max-width: 800px;
       }
     }
 
