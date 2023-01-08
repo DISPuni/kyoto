@@ -76,6 +76,15 @@ img {
    #list1{
     margin-bottom: 30px;
     margin-top: 30px;
+    display: flex;
+    justify-content: center;
+   }
+
+   #list5{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
    }
 
    .half_hl{
