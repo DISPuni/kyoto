@@ -9,6 +9,12 @@ div {
     margin-top: 80px;
 }
 
+#home{
+    margin: auto;
+    display: block;
+    margin-top: 80px;
+}
+
 img {
     margin: auto;
     display: block;
