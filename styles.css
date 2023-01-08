@@ -12,21 +12,12 @@ checkTouchable();
     margin-top: 80px;
 }
 
-body[data-touchable= 'true'] {
-  #mainimg{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 200px;
-  }
-}
 
 #mainimg{
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 200px;
-  img-size:50%
   }
 
 #menu{
