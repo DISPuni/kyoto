@@ -55,6 +55,17 @@
     margin-top: 30px;
    }
 
+   #article{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+      font-family: 'Noto Sans KR', sans-serif;
+      font-size: 14px;
+      margin-bottom: 30px;
+      margin-top: 30px;
+   }
+
+
    .half_hl{
     display: inline;
     background: linear-gradient(to top, #FFD199 30%, transparent 30%);
@@ -68,4 +79,10 @@
   #logo{
     width: 14%;
      }
+   }
+
+   #tokamap{
+    width: 100%;
+  margin-left: auto;
+  margin-right: auto;
    }
