@@ -50,17 +50,26 @@
     font-size: 14px;
    }
 
+#tokamap{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 100%;
+}
+
+#tokabest{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
    #list1{
     margin-bottom: 30px;
     margin-top: 30px;
    }
 
    #article{
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-      font-family: 'Noto Sans KR', sans-serif;
-      font-size: 14px;
       margin-bottom: 30px;
       margin-top: 30px;
    }
@@ -82,7 +91,9 @@
    }
 
    #tokamap{
-    width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+    width: 50%;
+   }
+
+   #tokabest{
+    width: 50%;
    }
